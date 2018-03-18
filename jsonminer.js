@@ -3,7 +3,7 @@
 
 var data = {
   "rigs": {
-    "6e8353": {
+    "6324e": {
       "condition": "just_booted",
       "version": "1.3.0",
       "driver": "amdgpu",
