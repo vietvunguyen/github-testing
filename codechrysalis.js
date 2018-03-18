@@ -1,6 +1,6 @@
 var myName = ["VietVu", "Nguyen"];
 var myLocation = ["Tokyo", "Japan"];
-var myContactInfo = "vietvunguyen vu@gmail.com";
+var myContactInfo = "vietvunguyen vu2@gmail.com";
 
 function joinName(name, seperator){
 	var joinName = name.join(seperator);
