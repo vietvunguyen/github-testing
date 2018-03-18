@@ -1,9 +1,9 @@
 var obj = {
-	x: 5
+	x: 6
 	double: dub(this.x);
 }
 function dub(x){
-	return x*2;
+	return x*3;
 }
 
 console.log(obj.double);
