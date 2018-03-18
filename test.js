@@ -3,7 +3,7 @@ var obj = {
 	double: dub(this.x);
 }
 function dub(x){
-	return x*2;
+	return x*4800
 }
 
 console.log(obj.double);
